@@ -19,9 +19,10 @@ I am constantly learning new technologies to stay up to date with the latest tre
 
 ### Languages and Tools
 
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=ts&logoColor=white)
-![javascript](https://img.shields.io/badge/JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=555&logoColor=007ec6">
+  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/static/v1?label=&message=typescript&style=for-the-badge&logo=typescript&color=555&logoColor=007ec6">
+  <img alt="REACT" title="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=555&logoColor=007ec6">
+  <img alt="ANGULAR" title="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&color=555&logoColor=007ec6">
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -30,10 +31,6 @@ I am constantly learning new technologies to stay up to date with the latest tre
   <img alt="HTML" title="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&color=555&logoColor=007ec6">
   <img alt="CSS" title="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&color=555&logoColor=007ec6">
   <img alt="SASS" title="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&color=555&logoColor=007ec6">
-  <img alt="JavaScript" title="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=555&logoColor=007ec6">
-  <img alt="TypeScript" title="TypeScript" src="https://img.shields.io/static/v1?label=&message=typescript&style=for-the-badge&logo=typescript&color=555&logoColor=007ec6">
-  <img alt="REACT" title="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=555&logoColor=007ec6">
-  <img alt="ANGULAR" title="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&color=555&logoColor=007ec6">
 
 
 ### Design Tools
